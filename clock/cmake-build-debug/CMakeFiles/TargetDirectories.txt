@@ -1,0 +1,3 @@
+/Users/jayz/CLionProjects/clock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jayz/CLionProjects/clock/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jayz/CLionProjects/clock/cmake-build-debug/CMakeFiles/clock.dir
