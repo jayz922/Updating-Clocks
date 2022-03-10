@@ -1,4 +1,14 @@
-# clockProject
+## Updating Clocks 
 
-Summarize the project and what problem it was solving?
-- In this project, the assignment was to create a clock that can be modified by the user with a menu selection in the console. When the project is ran, it will display current system time in a 12 hour and 24 hour format along with a menu that allows the user to add an hour, a minute or second to both clocks. The last option will stop the program. 
+### Summary
+
+This program shows two clocks in the terminal in both 12hr and 24 hour formats that displays local machine time. User can perform the set menu actions to modulate the time on their screen.
+
+### Menu Functions
+
+1) Allows user to add one hour to the current time
+2) Allows user to add one minute to the current time
+3) Allows user to add one second to the current time
+4) Exits the program 
+
+Written for SNHU CS210 "Programming Languages" class in 2018
